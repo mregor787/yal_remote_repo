@@ -1,0 +1,2 @@
+В удаленной ветке demo в файле README после 'hat (hat branch)' идёт точка, в ветке master
+предложение расширенное: '...(hat branch) with nice buttons on his jacket (buttons branch)'
