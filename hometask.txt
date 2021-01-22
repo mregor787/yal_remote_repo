@@ -1,2 +1,16 @@
-В удаленной ветке demo в файле README после 'hat (hat branch)' идёт точка, в ветке master
+1) В удаленной ветке demo в файле README после 'hat (hat branch)' идёт точка, в ветке master
 предложение расширенное: '...(hat branch) with nice buttons on his jacket (buttons branch)'
+2) Всего на ветке master в итоге 11 коммитов (когда внесу эти изменения в hometask, будет 12).
+Коммиты (от старого к новому):
+- init
+- heat added
+- boots
+- README added
+- dots
+- fix readme
+- Merge branch 'boots' into boots_buttons
+- Merge branch 'buttons' into boots_buttons
+- Merge branch 'hat'
+- Merge branch 'boots_buttons'
+- Add hometask file
+(- Update hometask) - появится при внесении изменений сюда
